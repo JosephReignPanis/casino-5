@@ -165,7 +165,7 @@ const sportTabs: Record<string, { id: string; label: string }[]> = {
 };
 
 // Component map for content
-const tabComponents: Record<string, Record<string, JSX.Element>> = {
+const tabComponents: Record<string, Record<string, React.ReactNode>> = {
   로투스: {
     로투스sniffling: (
       <>
