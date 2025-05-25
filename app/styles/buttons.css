@@ -1,0 +1,32 @@
+.navgradient {
+  background: var(--primary-bg-gradient);
+}
+.navgradientT {
+  background: var(--primary-bg-gradient-t);
+}
+.sidebar-bg {
+  background: var(--sb-gradient);
+}
+.btn-golden-gradient {
+  background: var(--secondary-bg-gradient);
+}
+.btn-gold-nav-gradient {
+  color: #ffffff;
+  background: var(--secondary-bg-gradient);
+}
+.btn-gold-bg {
+  background: var(--secondary-bg-gradient);
+}
+.nav-btn-primary-c {
+  color: white;
+  background-clip: text;
+  -webkit-background-clip: text;
+  background-image: var(--text-primary);
+  mix-blend-mode: normal;
+}
+.nav-btn-primary-c:hover {
+  color: transparent;
+  background-image: var(--text-primary-hover);
+  text-shadow: 0rem 0rem 1rem;
+  mix-blend-mode: normal;
+}
