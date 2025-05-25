@@ -47,14 +47,6 @@ export default function Navbar() {
 
   const userinfo = [
     {
-      label: "받은쪽지함:",
-      value: "(999) ",
-    },
-    {
-      label: "보유머니:",
-      value: "140.295원",
-    },
-    {
       label: "베팅중인금액:",
       value: "100,000원",
     },
