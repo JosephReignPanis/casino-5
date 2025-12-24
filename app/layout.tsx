@@ -40,6 +40,7 @@ export default function RootLayout({
       >
         <MobileNav />
         <Navbar />
+        testing
         <div className="min-h-screen max-w-[1920px] mx-auto bg-neutral-900">
           <main className="grid grid-cols-1 lg:grid-cols-5 mx-auto ">
             <div className="hidden lg:block">
