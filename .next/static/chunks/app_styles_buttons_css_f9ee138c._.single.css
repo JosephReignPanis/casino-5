@@ -1,0 +1,42 @@
+/* [project]/app/styles/buttons.css [app-client] (css) */
+.navgradient {
+  background: var(--primary-bg-gradient);
+}
+
+.navgradientT {
+  background: var(--primary-bg-gradient-t);
+}
+
+.sidebar-bg {
+  background: var(--sb-gradient);
+}
+
+.btn-golden-gradient {
+  background: var(--secondary-bg-gradient);
+}
+
+.btn-gold-nav-gradient {
+  color: #fff;
+  background: var(--secondary-bg-gradient);
+}
+
+.btn-gold-bg {
+  background: var(--secondary-bg-gradient);
+}
+
+.nav-btn-primary-c {
+  color: #fff;
+  -webkit-background-clip: text;
+  background-clip: text;
+  background-image: var(--text-primary);
+  mix-blend-mode: normal;
+}
+
+.nav-btn-primary-c:hover {
+  color: #0000;
+  background-image: var(--text-primary-hover);
+  text-shadow: 0 0 1rem;
+  mix-blend-mode: normal;
+}
+
+/*# sourceMappingURL=app_styles_buttons_css_f9ee138c._.single.css.map*/
