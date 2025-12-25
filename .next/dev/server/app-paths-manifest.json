@@ -1,0 +1,5 @@
+{
+  "/categories/sports-live-kor/page": "app/categories/sports-live-kor/page.js",
+  "/categories/sportsspecial/page": "app/categories/sportsspecial/page.js",
+  "/page": "app/page.js"
+}

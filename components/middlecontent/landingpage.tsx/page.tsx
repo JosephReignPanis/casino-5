@@ -50,8 +50,8 @@ export default function LandingPage() {
       <div className="block sm:hidden">
         <Image
           src="/banner.png"
-          width={120}
-          height={100}
+          width={2040}
+          height={1000}
           alt="placeholder"
           className="w-full pb-2"
         />
@@ -59,22 +59,22 @@ export default function LandingPage() {
           <div className="col-span-1 flex flex-col gap-2">
             <Image
               src={"/banner_games/banner_1.png"}
-              width={120}
-              height={100}
+              width={240}
+              height={240}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_2.png"}
-              width={120}
-              height={100}
+              width={240}
+              height={240}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_3.png"}
-              width={120}
-              height={100}
+              width={240}
+              height={240}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
@@ -82,22 +82,22 @@ export default function LandingPage() {
           <div className="col-span-1 flex flex-col gap-2">
             <Image
               src={"/banner_games/banner_4.png"}
-              width={120}
-              height={100}
+              width={240}
+              height={240}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_5.png"}
-              width={120}
-              height={100}
+              width={240}
+              height={240}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_6.png"}
-              width={120}
-              height={100}
+              width={240}
+              height={240}
               alt="placeholder"
               className="object-contain w-full pb-2"
             />
@@ -108,8 +108,8 @@ export default function LandingPage() {
       <div className="col-span-7 hidden sm:block h-full">
         <Image
           src={"/banner.png"}
-          width={1000}
-          height={400}
+          width={2040}
+          height={1000}
           alt="text"
           className="object-cover w-full"
         />
@@ -117,43 +117,43 @@ export default function LandingPage() {
           {" "}
           <Image
             src={"/banner_games/banner_1.png"}
-            width={100}
-            height={100}
+            width={240}
+            height={240}
             alt="thumbnail"
             className="object-cover w-full"
           />{" "}
           <Image
             src={"/banner_games/banner_2.png"}
-            width={100}
-            height={100}
+            width={240}
+            height={240}
             alt="thumbnail"
             className="object-cover w-full"
           />{" "}
           <Image
             src={"/banner_games/banner_3.png"}
-            width={100}
-            height={100}
+            width={240}
+            height={240}
             alt="thumbnail"
             className="object-cover w-full"
           />{" "}
           <Image
             src={"/banner_games/banner_4.png"}
-            width={100}
-            height={100}
+            width={240}
+            height={240}
             alt="thumbnail"
             className="object-cover w-full"
           />{" "}
           <Image
             src={"/banner_games/banner_5.png"}
-            width={100}
-            height={100}
+            width={240}
+            height={240}
             alt="thumbnail"
             className="object-cover w-full"
           />{" "}
           <Image
             src={"/banner_games/banner_6.png"}
-            width={100}
-            height={100}
+            width={240}
+            height={240}
             alt="thumbnail"
             className="object-cover w-full"
           />{" "}

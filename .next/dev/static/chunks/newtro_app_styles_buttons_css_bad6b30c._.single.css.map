@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/newtro/app/styles/buttons.css"],"sourcesContent":[".navgradient {\n  background: var(--primary-bg-gradient);\n}\n.navgradientT {\n  background: var(--primary-bg-gradient-t);\n}\n.sidebar-bg {\n  background: var(--sb-gradient);\n}\n.btn-golden-gradient {\n  background: var(--secondary-bg-gradient);\n}\n.btn-gold-nav-gradient {\n  color: #ffffff;\n  background: var(--secondary-bg-gradient);\n}\n.btn-gold-bg {\n  background: var(--secondary-bg-gradient);\n}\n.nav-btn-primary-c {\n  color: white;\n  background-clip: text;\n  -webkit-background-clip: text;\n  background-image: var(--text-primary);\n  mix-blend-mode: normal;\n}\n.nav-btn-primary-c:hover {\n  color: transparent;\n  background-image: var(--text-primary-hover);\n  text-shadow: 0rem 0rem 1rem;\n  mix-blend-mode: normal;\n}\n"],"names":[],"mappings":"AAAA;;;;AAGA;;;;AAGA;;;;AAGA;;;;AAGA;;;;;AAIA;;;;AAGA;;;;;;;;AAOA"}}]
+}
