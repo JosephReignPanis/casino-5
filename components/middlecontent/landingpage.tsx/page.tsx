@@ -113,50 +113,42 @@ export default function LandingPage() {
           alt="text"
           className="object-cover w-full"
         />
-        <div className="grid grid-cols-3 gap-2 pt-2">
-          {" "}
+        <div className="grid grid-cols-5 gap-2 pt-2">
           <Image
             src={"/banner_games/banner_1.png"}
             width={240}
-            height={240}
+            height={340}
             alt="thumbnail"
             className="object-cover w-full"
-          />{" "}
+          />
           <Image
             src={"/banner_games/banner_2.png"}
             width={240}
-            height={240}
+            height={340}
             alt="thumbnail"
             className="object-cover w-full"
-          />{" "}
+          />
           <Image
             src={"/banner_games/banner_3.png"}
             width={240}
-            height={240}
+            height={340}
             alt="thumbnail"
             className="object-cover w-full"
-          />{" "}
+          />
           <Image
             src={"/banner_games/banner_4.png"}
             width={240}
-            height={240}
+            height={340}
             alt="thumbnail"
             className="object-cover w-full"
-          />{" "}
+          />
           <Image
             src={"/banner_games/banner_5.png"}
             width={240}
-            height={240}
+            height={340}
             alt="thumbnail"
             className="object-cover w-full"
-          />{" "}
-          <Image
-            src={"/banner_games/banner_6.png"}
-            width={240}
-            height={240}
-            alt="thumbnail"
-            className="object-cover w-full"
-          />{" "}
+          />
         </div>
       </div>
     </>
