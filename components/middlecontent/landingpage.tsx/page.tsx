@@ -62,21 +62,21 @@ export default function LandingPage() {
               width={240}
               height={240}
               alt="placeholder"
-              className="object-contain w-full pb-2"
+              className="object-fill w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_2.png"}
               width={240}
               height={240}
               alt="placeholder"
-              className="object-contain w-full pb-2"
+              className="object-fill w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_3.png"}
               width={240}
               height={240}
               alt="placeholder"
-              className="object-contain w-full pb-2"
+              className="object-fill w-full pb-2"
             />
           </div>
           <div className="col-span-1 flex flex-col gap-2">
@@ -85,21 +85,21 @@ export default function LandingPage() {
               width={240}
               height={240}
               alt="placeholder"
-              className="object-contain w-full pb-2"
+              className="object-fill w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_5.png"}
               width={240}
               height={240}
               alt="placeholder"
-              className="object-contain w-full pb-2"
+              className="object-fill w-full pb-2"
             />
             <Image
               src={"/banner_games/banner_6.png"}
               width={240}
               height={240}
               alt="placeholder"
-              className="object-contain w-full pb-2"
+              className="object-fill w-full pb-2"
             />
           </div>
         </div>
