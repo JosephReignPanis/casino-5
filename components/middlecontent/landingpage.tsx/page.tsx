@@ -115,35 +115,35 @@ export default function LandingPage() {
         />
         <div className="grid grid-cols-5 gap-2 pt-2">
           <Image
-            src={"/banner_games/banner_1.png"}
+            src={"/banner_games/banner_1.jpg"}
             width={240}
             height={340}
             alt="thumbnail"
             className="object-cover w-full"
           />
           <Image
-            src={"/banner_games/banner_2.png"}
+            src={"/banner_games/banner_2.jpg"}
             width={240}
             height={340}
             alt="thumbnail"
             className="object-cover w-full"
           />
           <Image
-            src={"/banner_games/banner_3.png"}
+            src={"/banner_games/banner_3.jpg"}
             width={240}
             height={340}
             alt="thumbnail"
             className="object-cover w-full"
           />
           <Image
-            src={"/banner_games/banner_4.png"}
+            src={"/banner_games/banner_4.jpg"}
             width={240}
             height={340}
             alt="thumbnail"
             className="object-cover w-full"
           />
           <Image
-            src={"/banner_games/banner_5.png"}
+            src={"/banner_games/banner_5.jpg"}
             width={240}
             height={340}
             alt="thumbnail"
